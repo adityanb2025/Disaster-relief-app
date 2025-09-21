@@ -1,0 +1,7 @@
+id,timestamp,name,phone,address,need,extra,lat,lon,status,responder
+f47ac10b-58cc-4372-a567-0e02b2c3d479,2025-09-21T12:34:56Z,Ravi Kumar,+91-9876543210,Near ABC School Chennai,Water,Elderly person needs immediate help,13.045,80.201,pending,
+b8e9d7c6-4321-5678-9abc-def012345678,2025-09-21T13:15:30Z,Priya Sharma,+91-9876543211,T Nagar Bus Stop Chennai,Medical,Pregnant woman in labor,13.0415,80.2341,ongoing,Dr. Arun - +91-9123456789
+c3f8a2b1-9876-5432-1def-456789012345,2025-09-21T14:22:15Z,Mohan Raj,+91-9876543212,Marina Beach Road Chennai,Food,Family of 5 without food for 2 days,13.0499,80.2824,pending,
+d5c7e1f3-2468-1357-9ace-024681357902,2025-09-21T15:45:20Z,Lakshmi Devi,+91-9876543213,Velachery Main Road Chennai,Shelter,House flooded need temporary shelter,12.9759,80.2207,helped,Volunteer Team Alpha
+e8b4f6a2-1379-2468-0bdf-135792468013,2025-09-21T16:30:45Z,Vijay Singh,+91-9876543214,Adyar River Bank Chennai,Evacuation,Trapped in building urgent evacuation needed,13.0067,80.2206,pending,
+a1b2c3d4-5678-9
